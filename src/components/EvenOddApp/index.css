@@ -1,0 +1,46 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #ffffff;
+  height: 100vh;
+  padding: 20px;
+}
+.cart-container {
+  background-image: linear-gradient(to bottom, #ff6e7f, #bfe9ff);
+  background-size: cover;
+  height: 70vh;
+  width: 50vw;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  font-family: Roboto;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+}
+.para {
+  font-family: Roboto;
+  font-size: 20px;
+  color: #334155;
+  text-align: center;
+  margin: 10px;
+}
+.btn-1 {
+  background-color: #ffffff;
+  height: 30px;
+  width: 120px;
+  padding: 5px;
+  margin: 5px;
+  border-radius: 5px;
+  border-width: 0px;
+}
+.para-1 {
+  font-family: Roboto;
+  font-size: 10px;
+  color: #334155;
+  text-align: center;
+  margin: 10px;
+}
